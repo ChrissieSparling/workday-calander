@@ -24,7 +24,7 @@ body {
      display: flex;
      justify-self: center;
    }
-   
+
    .description {
      white-space: pre-wrap;
    }
@@ -73,5 +73,21 @@ body {
      font-size: 20px;
      transition: all 0.3s ease-in-out;
    }
+   @media screen and (min-width: 992x) {
+    body{
+      width: 100%;
+      }
+  }
  
+  @media screen and (max-width: 768px) {
+     body{
+        width: 100%;
+        }
+    }
    
+@media screen and (max-width: 576x) {
+  body{
+    width: 100%;
+    }
+}
+
