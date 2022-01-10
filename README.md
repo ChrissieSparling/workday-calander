@@ -9,11 +9,14 @@ will change between light grey to salmon when current and past times...future ti
 
 the information can be saved into the console
 
-links to the deployed pages.
+# snippet
+![A user clicks on slots on the color-coded calendar and edits the events.](./workday-cal snip.png)
+
+# links to the deployed pages.
 https://chrissiesparling.github.io/workday-calander/
 https://github.com/ChrissieSparling/workday-calander
 
-Other material used:
+# Other material used:
 
 https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
 
